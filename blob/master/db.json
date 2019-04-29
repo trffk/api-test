@@ -1,0 +1,30 @@
+[
+    {
+        "ppgId": "20070605102400919",
+        "dealerName": "Murray Chevrolet Cadillac.",
+        "primaryUrl": "http://www.murraychev.com",
+        "paidSearch": {
+            "PS Budget Spend Total": 1400,
+            "Adwords Budget Allocation":1000,
+            "Bing Total Budget":100,
+            "Bing Budget Allocation":0,
+            "Adwords Campaigns": [
+                "EN - Agency Used inventory - Dynamic",
+                "EN - Agency New inventory - Dynamic"
+            ]
+        },
+        "display": {
+            "DIS Budget Spend Total": 500,
+            "DIS Re-targeting Campaigns": [
+                "EN - New inventory Remarketing - Dynamic",
+                "EN - Used inventory Remarketing - Dynamic"                
+            ]
+        },
+        "Social": {
+            "FB Budget Spend Total":1500,
+            "FB Geo Targeting Area":"Alberta",
+            "FB URL":"http://www.facebook.com/murrayslethbridge"
+        }
+
+    }
+]
