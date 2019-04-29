@@ -1,5 +1,5 @@
-[
-    {
+{ "data":   
+     {
         "ppgId": "20070605102400919",
         "dealerName": "Murray Chevrolet Cadillac.",
         "primaryUrl": "http://www.murraychev.com",
@@ -27,4 +27,4 @@
         }
 
     }
-]
+}
